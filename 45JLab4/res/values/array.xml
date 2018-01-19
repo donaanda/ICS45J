@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficulty_sort_options">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+    <string-array name="difficulty_sort_bool_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="difficulty_select_options">
+        <item>Easy (1)</item>
+        <item>Medium (2)</item>
+        <item>Hard (3)</item>
+    </string-array>
+    <string-array name="difficulty_select_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

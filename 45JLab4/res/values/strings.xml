@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">Start</string>
+    <string name="options">Options</string>
+    <string name="app_name">45J Flashcards</string>
+    <string name="greeting">Welcome to the 45J Flashcard Program!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz_prompt">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_results">Results</string>
+    <string name="difficulty_header">Difficulty</string>
+    <string name="type_header">Categories</string>
+    <string name="difficulty_sort_title">Difficulty Sort</string>
+    <string name="difficulty_select_title">Difficulty Selection</string>
+    <string name="type_title">Category Sort</string>
+    <string name="difficulty_header_summary">Sort the flashcards by difficulty.</string>
+    <string name="difficulty_select_summary">View only the flashcards of a certain difficulty.</string>
+    <string name="type_header_summary">Sort the flashcards by their categories, grouping them together.</string>
+    <string name="result_activity_title">"You finished the quiz!"</string>
+    <string name="restart_button_title">Start Over</string>
+    <string name="done">Done</string>
+    <string name="title_activity_review">Review Answers</string>
+    <string name="back_button_title">Back</string>
+    <string name="review_button_title">Review Answers</string>
+    <string name="title_activity_options">Options</string>
+    <string name="options_title">Type the URL to source cards from</string>
+
+</resources>

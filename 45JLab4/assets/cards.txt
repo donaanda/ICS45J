@@ -1,0 +1,3 @@
+Which of these data types is best for storing key/value pairs?;1;Collections;MC;Map,LinkedList,String[],Double[],Map[]
+String is a primitive.;1;Primitives;TF;false
+What exception would be thrown if you attempted to call a method of a null object?;1;Exceptions;SA;NullPointerException;true

@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it. -->
+    <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
+    <ListPreference
+        android:key="difficulty_sort_settings"
+        android:title="@string/difficulty_sort_title"
+        android:summary="@string/difficulty_header_summary"
+        android:entries="@array/difficulty_sort_options"
+        android:entryValues="@array/difficulty_sort_bool_values" />
+    <ListPreference
+        android:key="difficulty_select_settings"
+        android:title="@string/difficulty_select_title"
+        android:summary="@string/difficulty_select_summary"
+        android:entries="@array/difficulty_select_options"
+        android:entryValues="@array/difficulty_select_values" />
+    <CheckBoxPreference
+        android:key="type_sort_settings"
+        android:title="@string/type_title"
+        android:summary="@string/type_header_summary"
+        android:defaultValue="false"/>
+
+
+</PreferenceScreen>
